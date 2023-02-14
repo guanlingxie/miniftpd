@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "session.h": "c",
+        "common.h": "c",
+        "privsock.h": "c"
+    }
+}
